@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/power-admin/power-admin.iml" filepath="$PROJECT_DIR$/power-admin/power-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/power-common/power-common.iml" filepath="$PROJECT_DIR$/power-common/power-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/power-shiro.iml" filepath="$PROJECT_DIR$/.idea/power-shiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/power-system/power-system.iml" filepath="$PROJECT_DIR$/power-system/power-system.iml" />
     </modules>
   </component>
 </project>
